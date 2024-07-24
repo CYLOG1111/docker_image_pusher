@@ -1,1 +1,1 @@
-phusion/baseimage:jammy-1.0.1
+mysql:5.7.10
