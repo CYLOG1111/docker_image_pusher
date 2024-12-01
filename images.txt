@@ -1,1 +1,1 @@
-joedval/stress
+docker.io/joedval/stress:latest
