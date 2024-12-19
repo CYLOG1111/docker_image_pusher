@@ -1,1 +1,1 @@
-docker.io/joedval/stress:latest
+pivotaldata/gpdb-devel
