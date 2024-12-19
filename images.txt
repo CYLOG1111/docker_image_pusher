@@ -1,1 +1,1 @@
-pivotaldata/gpdb-devel
+lhrbest/greenplum_gpcc:6.23.1
