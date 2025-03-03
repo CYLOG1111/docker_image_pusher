@@ -1,1 +1,1 @@
-lhrbest/greenplum_gpcc:6.23.1
+apache/skywalking-oap-server
